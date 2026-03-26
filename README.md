@@ -34,4 +34,43 @@ The dataset includes features of students:
 - Scikit-learn
 ---
 
+## Machine Learning Flow
+
+The steps followed in this project are:
+
+1. Preparation of Data
+2. Selecting Features
+3. Using Train-Test Split
+4. Training model using Linear Regression
+5. Predicting the Test Data
+6. Model Evaluation (MSE, R^2)
+7. Residual Analysis
+
+---
+
+## Model Evaluation Metrics 
+
+The regression model was evaluated using:
+ - Mean Squared Error (MSE)
+ - R^2 Score
+
+These metrics helps us to measure prediction accuracy and model performance.
+
+---
+
+## Key Learning Outcomes
+
+Through this project, I learned:
+
+- How models are trained using regression
+- how to evaluated prediction accuracy
+- how to interpret model's coefficients
+- how residual plots help to check prediction accuracy
+
+---
+
+### Author 
+
+Harsh Desai 
+
   
