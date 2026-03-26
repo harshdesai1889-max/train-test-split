@@ -20,8 +20,7 @@ The dataset includes features of students:
 - Hours Studied 
 - Sleep Hours
 - Marks Scored
-
-- These features helps us to understand the pattern or habits that affects the academic performance.
+ These features helps us to understand the pattern or habits that affects the academic performance.
 ---
 
 
